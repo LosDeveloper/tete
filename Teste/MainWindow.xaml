@@ -15,6 +15,7 @@
                 </TransformGroup>
             </GroupBox.RenderTransform>
         </GroupBox>
+        <DatePicker HorizontalAlignment="Left" Margin="303,109,0,0" VerticalAlignment="Top"/>
 
     </Grid>
 </Window>
