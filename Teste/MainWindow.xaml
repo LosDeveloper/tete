@@ -28,6 +28,9 @@
         <Button Content="Button" HorizontalAlignment="Left" Margin="368,256,0,0" VerticalAlignment="Top" Width="75"/>
 
 
+        <Button Content="Button" HorizontalAlignment="Left" Margin="368,256,0,0" VerticalAlignment="Top" Width="75"/>
+
+
 
     </Grid>
 </Window>
