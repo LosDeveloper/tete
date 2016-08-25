@@ -15,6 +15,8 @@
                 </TransformGroup>
             </GroupBox.RenderTransform>
         </GroupBox>
+        <Label Content="Label" HorizontalAlignment="Left" Margin="68,196,0,0" VerticalAlignment="Top"/>
+        <Button Content="Button" HorizontalAlignment="Left" Margin="171,256,0,0" VerticalAlignment="Top" Width="75"/>
 
     </Grid>
 </Window>
