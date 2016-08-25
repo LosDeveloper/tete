@@ -3,6 +3,18 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         Title="MainWindow" Height="350" Width="525">
     <Grid>
-        
+        <CheckBox Content="CheckBox" HorizontalAlignment="Left" Margin="114,94,0,0" VerticalAlignment="Top"/>
+        <Slider HorizontalAlignment="Left" Margin="171,202,0,0" VerticalAlignment="Top" Width="185"/>
+        <GroupBox Header="GroupBox" HorizontalAlignment="Left" Margin="221,29,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.5,0.5" Width="224">
+            <GroupBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleX="-4.574"/>
+                    <RotateTransform/>
+                    <TranslateTransform X="-0.92"/>
+                </TransformGroup>
+            </GroupBox.RenderTransform>
+        </GroupBox>
+
     </Grid>
 </Window>
